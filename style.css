@@ -1,0 +1,55 @@
+h1 {
+    margin-top: -220px;
+    text-align: center;
+}
+
+body {
+    width: 90%;
+    height: 100vh;
+    background: black;
+}
+
+img {
+    display: block;
+    margin-left: 100px;
+    border-radius: 50%;
+    text-align: left;
+    margin-top: 60px;
+}
+
+div#logo {
+    display: inline-block;
+}
+
+hr {
+    margin-top: 90px;
+}
+
+div#nameinfo {
+    text-align: center;
+    margin-top: -200px;
+    margin-left: -400px;
+}
+
+div#body {
+    width: 1300px;
+    height: 100vh;
+    margin-left: 250px;
+    background: linear-gradient( to top, pink 0%, pink 60%, paleturquoise 70%, paleturquoise 100%);
+}
+
+div#aboutme {
+    margin-left: 75px;
+    margin-right: 725px;
+}
+
+div#myresume {
+    margin-left: 1000px;
+    margin-right: 75px;
+    margin-top: -580px;
+}
+
+div#workexperience {
+    margin-left: 75px;
+    margin-right: 725px;
+}
